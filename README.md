@@ -11,7 +11,7 @@ Kimia Farma is one of Indonesia's largest pharmaceutical companies with branches
 
 ## 🛠️ Tools Used
 - SQL for data processing and analysis 💾
-- Tableau for data visualization and dashboard creation 📊
+- Lookerstudio for data visualization and dashboard creation 📊
 - Python for advanced data analysis 🐍
 - Git & GitHub for version control and project documentation 📚
 
